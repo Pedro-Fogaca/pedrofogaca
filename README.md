@@ -30,3 +30,17 @@ Um simples sistema de cadastro de usuários em Python, executado no terminal. De
     ```
 
 ## 📋 Estrutura do Projeto
+sistema-cadastro-python/
+│
+├── main.py # Código principal do programa
+├── dados.txt # Arquivo gerado para armazenar os cadastros
+└── README.md # Este arquivo
+
+text
+
+## 👨‍💻 Autor
+
+Pedro Fogaça
+
+- LinkedIn: [Pedro Fogaça] (www.linkedin.com/in/pedro-fogaça-443a24381)
+- GitHub: [@pedrofogaca](https://github.com/pedrofogaca)
